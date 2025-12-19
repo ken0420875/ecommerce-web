@@ -145,11 +145,20 @@ Example:
 src="https://github.com/user-attachments/assets/810e1d5b-924c-42a4-a1bd-b70a488b599a" />
 
 /screenshots/insomnia-tests.png
-```
 
-### Application Startup
+Duplicate Errors 
 
-// screenshot of the Spring Boot application running successfully in IntelliJ.
+
+<img width="822" height="665" alt="Screenshot 2025-12-19 at 8 13 54 AM" src="https://github.com/user-attachments/assets/a64eb8b7-dff8-41bd-a979-f3a5a304967c" />
+
+
+
+
+Screenshot of the Spring Boot application running successfully in IntelliJ.
+
+<img width="1470" height="956" alt="Screenshot 2025-12-19 at 8 31 25 AM" src="https://github.com/user-attachments/assets/ab964a71-2316-4fb0-a609-5542fd58c6b1" />
+
+
 
 ```
 
